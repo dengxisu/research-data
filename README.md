@@ -1,1 +1,4 @@
 # research-data
+
+CEPS (China Education Panel Survey) is a large-scale, nationally representative, longitudinal survey starting with the 7th and 9th graders in the 2013-2014 academic year, aiming at explaining the linkages between individuals' educational outcomes and multiple contexts of families, school processes, communities and social structure, and further studying the effects of educational outcomes during people's life course.
+The CEPS database was designed by the National Survey Research Center at Renmin University of China. The data is available for academic research purposes. Original data access must be requested from the CEPS Research Team. Contact information can be found on their website (http://ceps.ruc.edu.cn/). 
